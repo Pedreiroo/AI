@@ -1,2 +1,3 @@
-#My AI project
-this is my first AI project
+# AI Battle Arena
+
+This repository contains a simple Pygame simulation where red and blue agents battle each other with ricocheting bullets. Run `battle_arena.py` to start the simulation.
